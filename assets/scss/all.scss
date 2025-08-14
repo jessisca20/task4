@@ -1,0 +1,19 @@
+/*引入字體*/
+@import url(https://fonts.google.com/noto/specimen/Noto+Sans+TC?query=noto+sans+tc);
+
+@import './base/reset';
+@import './helper/variables';
+@import './base/base';
+
+@import './helper/utils';
+
+@import './component/breadscrumb';
+@import './component/btn';
+ 
+@import './layout/header';
+@import './layout/footer';
+
+
+@import './pages/index';
+@import './pages/product';
+@import './pages/story';

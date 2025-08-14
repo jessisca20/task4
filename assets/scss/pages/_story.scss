@@ -1,0 +1,62 @@
+.banner-story{
+  background-image:url(/assets/images/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  width:100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media(max-width:768px){
+     .banner-story{
+     padding: 87px 0;
+     background-image: url(/assets/images/hero-sm.png);
+     max-width: 100%;
+      }
+
+}
+
+.quote{
+ border-radius: 12px;
+ text-align: center;
+ background-color: $primary-100;
+ 
+}
+
+@media(max-width:768px){
+     .quote{
+       text-align: left;
+     }
+     
+}
+
+.section-lined{
+  border-bottom: 1px solid $neutral-300;
+}
+
+.history-descr{
+  border-left: 1px solid $neutral-900;
+  padding-left: 8px;
+}
+
+
+.history-list{
+ list-style-type: disc;
+ padding-left: 24px;
+
+}
+
+.concept-item{
+ border-left: 3px solid $neutral-300;
+ padding-left: 12px;
+}
+
+
+.bi{
+     padding-right: 8px;
+     vertical-align: bottom;
+}
+
+
