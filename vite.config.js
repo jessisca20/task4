@@ -25,7 +25,7 @@ function moveOutputPlugin() {
 export default defineConfig({
   // base 的寫法:
   // base: '/task4/'
-  base: '/web-layout-training-vite/',
+  base: '/task4/',
   plugins: [
     liveReload(['./layout/**/*.ejs', './pages/**/*.ejs', './pages/**/*.html']),
     ViteEjsPlugin(),
