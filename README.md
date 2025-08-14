@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 網頁切版直播班 Vite 範例
 
 ## Node.js 版本
@@ -46,3 +47,7 @@ git push -u origin main // 僅限第一次輸入，往後只需要輸入 git pus
 ```
 
 3. 初始化完畢後，執行 `npm run deploy` 指令進行自動化部署
+=======
+# task4
+切版直播班_第四堂作業
+>>>>>>> e8f7f516809111ed39c292dc6b4bbd6a3faab73f
